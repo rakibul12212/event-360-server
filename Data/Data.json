@@ -1,0 +1,142 @@
+{
+  "services": [
+    {
+      "id": "service-1",
+      "image": "https://i.ibb.co/YPMWv6b/Rectangle-5.png",
+      "title": "Corporate event",
+      "text": "Ut posuere felis arcu tellus tempus in in ultricies. Gravida id nibh ornare viverra. Ultrices faucibus neque velit risus ac id lorem.Ut posuere felis arcu tellus tempus in in ultricies.Ut posuere felis arcu tellus tempus in in ultricies.",
+      "details": [
+        "One day pas access all lecture",
+        "Lunch and Snack",
+        "Meet Event Speaker",
+        "Front Seat",
+        "One day pas access all lecture"
+      ]
+    },
+    {
+      "id": "service-2",
+      "image": "https://i.ibb.co/L6fWr6Z/Rectangle-5-1.png",
+      "title": "Wedding Event",
+      "text": "Ut posuere felis arcu tellus tempus in in ultricies. Gravida id nibh ornare viverra. Ultrices faucibus neque velit risus ac id lorem.Ut posuere felis arcu tellus tempus in in ultricies.Ut posuere felis arcu tellus tempus in in ultricies.",
+      "details": [
+        "One day pas access all lecture",
+        "Lunch and Snack",
+        "Meet Event Speaker",
+        "Front Seat",
+        "One day pas access all lecture"
+      ]
+    },
+    {
+      "id": "service-3",
+      "image": "https://i.ibb.co/YPMWv6b/Rectangle-5.png",
+      "title": "Organization event",
+      "text": "Ut posuere felis arcu tellus tempus in in ultricies. Gravida id nibh ornare viverra. Ultrices faucibus neque velit risus ac id lorem.Ut posuere felis arcu tellus tempus in in ultricies.Ut posuere felis arcu tellus tempus in in ultricies.",
+      "details": [
+        "One day pas access all lecture",
+        "Lunch and Snack",
+        "Meet Event Speaker",
+        "Front Seat",
+        "One day pas access all lecture"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "item-1",
+      "image": "https://i.ibb.co/8cNKnjp/Rectangle-2989.png",
+      "title": "Event Item 1"
+    },
+    {
+      "id": "item-2",
+      "image": "https://i.ibb.co/qkNJpKK/Rectangle-2989-3.png",
+      "title": "Event Item 2"
+    },
+    {
+      "id": "item-3",
+      "image": "https://i.ibb.co/ZHkykcw/Rectangle-2989-4.png",
+      "title": "Item 3"
+    },
+    {
+      "id": "item-4",
+      "image": "https://i.ibb.co/mqmDN4B/Rectangle-2989-5.png",
+      "title": "Event Item 4"
+    },
+    {
+      "id": "item-5",
+      "image": "https://i.ibb.co/7KhZ11z/Rectangle-2989-2.png",
+      "title": "Event Item 5"
+    },
+    {
+      "id": "item-6",
+      "image": "https://i.ibb.co/5By3B1Q/Rectangle-2989-1.png",
+      "title": "Event Item 6"
+    }
+  ],
+  "plans": [
+    {
+      "id": "plan-1",
+      "header": "Enterprise",
+      "title": "In ornare ligula lorem, sit amet faucibus velit vehicula eget. ",
+      "price": "15",
+      "details": [
+        "Ten links available",
+        "Own analytics platform",
+        "Mobile app",
+        "Chat Support",
+        "1000 users",
+        "Template Library"
+      ]
+    },
+    {
+      "id": "plan-2",
+      "header": "Forever",
+      "title": "In ornare ligula lorem, sit amet faucibus velit vehicula eget. ",
+      "price": "25",
+      "details": [
+        "Ten links available",
+        "Own analytics platform",
+        "Mobile app",
+        "Chat Support",
+        "1000 users",
+        "Template Library"
+      ]
+    },
+    {
+      "id": "plan-3",
+      "header": "Business Pack",
+      "title": "In ornare ligula lorem, sit amet faucibus velit vehicula eget. ",
+      "price": "9",
+      "details": [
+        "Ten links available",
+        "Own analytics platform",
+        "Mobile app",
+        "Chat Support",
+        "1000 users",
+        "Template Library"
+      ]
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "testimonial-1",
+      "image": "https://i.ibb.co/f4c6TDj/Ellipse-80-1.png",
+      "name": "Amelia Joseph",
+      "designation": "Chief Manager",
+      "description":"I found the digital expertise I needed. Their creative-professional balance exceeded expectations. Friendly interactions, exceptional outcomes. For digital enchantment, it's got to be Embrace!"
+    },
+    {
+      "id": "testimonial-2 ",
+      "image": "https://i.ibb.co/ncRkm6C/Ellipse-80-2.png",
+      "name": "Jacob Joshua ",
+      "designation": "Chief Manager",
+      "description": "I found the digital expertise I needed. Their creative-professional balance exceeded expectations. Friendly interactions, exceptional outcomes. For digital enchantment, it's got to be Embrace!"
+    },
+    {
+      "id": "testimonial-3",
+      "image": "https://i.ibb.co/hgP8JKL/Ellipse-80-3.png",
+      "name": "Jacob Joshua",
+      "designation": "Chief Manager",
+      "description": "I found the digital expertise I needed. Their creative-professional balance exceeded expectations. Friendly interactions, exceptional outcomes. For digital enchantment, it's got to be Embrace!"
+    }
+  ]
+}
