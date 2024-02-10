@@ -5,9 +5,9 @@ require("dotenv").config();
 const app = express();
 
 const port = process.env.PORT || 5000;
-//const uri = `mongodb+srv://${process.env.DB_USER}:${process.env.DB_PASSWORD}@cluster0.xbwnors.mongodb.net/?retryWrites=true&w=majority`;
 const uri = process.env.DB_URI;
 console.log(uri);
+//vercel link : https://event-360-server-green.vercel.app/data
 
 // middleware
 app.use(cors());
