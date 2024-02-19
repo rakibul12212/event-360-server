@@ -6,11 +6,11 @@
       "title": "Corporate event",
       "text": "Ut posuere felis arcu tellus tempus in in ultricies. Gravida id nibh ornare viverra. Ultrices faucibus neque velit risus ac id lorem.Ut posuere felis arcu tellus tempus in in ultricies.Ut posuere felis arcu tellus tempus in in ultricies.",
       "details": [
-        "One day pas access all lecture",
-        "Lunch and Snack",
-        "Meet Event Speaker",
-        "Front Seat",
-        "One day pas access all lecture"
+        { "id": 1, "text": "One day pas access all lecture" },
+        { "id": 2, "text": "Lunch and Snack" },
+        { "id": 3, "text": "Meet Event Speaker" },
+        { "id": 4, "text": "Front Seat" },
+        { "id": 5, "text": "One day pas access all lecture" }
       ]
     },
     {
@@ -19,11 +19,11 @@
       "title": "Wedding Event",
       "text": "Ut posuere felis arcu tellus tempus in in ultricies. Gravida id nibh ornare viverra. Ultrices faucibus neque velit risus ac id lorem.Ut posuere felis arcu tellus tempus in in ultricies.Ut posuere felis arcu tellus tempus in in ultricies.",
       "details": [
-        "One day pas access all lecture",
-        "Lunch and Snack",
-        "Meet Event Speaker",
-        "Front Seat",
-        "One day pas access all lecture"
+        { "id": 1, "text": "One day pas access all lecture" },
+        { "id": 2, "text": "Lunch and Snack" },
+        { "id": 3, "text": "Meet Event Speaker" },
+        { "id": 4, "text": "Front Seat" },
+        { "id": 5, "text": "One day pas access all lecture" }
       ]
     },
     {
@@ -32,11 +32,11 @@
       "title": "Organization event",
       "text": "Ut posuere felis arcu tellus tempus in in ultricies. Gravida id nibh ornare viverra. Ultrices faucibus neque velit risus ac id lorem.Ut posuere felis arcu tellus tempus in in ultricies.Ut posuere felis arcu tellus tempus in in ultricies.",
       "details": [
-        "One day pas access all lecture",
-        "Lunch and Snack",
-        "Meet Event Speaker",
-        "Front Seat",
-        "One day pas access all lecture"
+        { "id": 1, "text": "One day pas access all lecture" },
+        { "id": 2, "text": "Lunch and Snack" },
+        { "id": 3, "text": "Meet Event Speaker" },
+        { "id": 4, "text": "Front Seat" },
+        { "id": 5, "text": "One day pas access all lecture" }
       ]
     }
   ],
@@ -79,12 +79,30 @@
       "title": "In ornare ligula lorem, sit amet faucibus velit vehicula eget. ",
       "price": "15",
       "details": [
-        "Ten links available",
-        "Own analytics platform",
-        "Mobile app",
-        "Chat Support",
-        "1000 users",
-        "Template Library"
+        {
+          "id": 1,
+          "text": "Ten links available"
+        },
+        {
+          "id": 2,
+          "text": "Own analytics platform"
+        },
+        {
+          "id": 3,
+          "text": "Mobile app"
+        },
+        {
+          "id": 4,
+          "text": "Chat Support"
+        },
+        {
+          "id": 5,
+          "text": "1000 users"
+        },
+        {
+          "id": 6,
+          "text": "Template Library"
+        }
       ]
     },
     {
@@ -93,12 +111,30 @@
       "title": "In ornare ligula lorem, sit amet faucibus velit vehicula eget. ",
       "price": "25",
       "details": [
-        "Ten links available",
-        "Own analytics platform",
-        "Mobile app",
-        "Chat Support",
-        "1000 users",
-        "Template Library"
+        {
+          "id": 1,
+          "text": "Ten links available"
+        },
+        {
+          "id": 2,
+          "text": "Own analytics platform"
+        },
+        {
+          "id": 3,
+          "text": "Mobile app"
+        },
+        {
+          "id": 4,
+          "text": "Chat Support"
+        },
+        {
+          "id": 5,
+          "text": "1000 users"
+        },
+        {
+          "id": 6,
+          "text": "Template Library"
+        }
       ]
     },
     {
@@ -107,12 +143,30 @@
       "title": "In ornare ligula lorem, sit amet faucibus velit vehicula eget. ",
       "price": "9",
       "details": [
-        "Ten links available",
-        "Own analytics platform",
-        "Mobile app",
-        "Chat Support",
-        "1000 users",
-        "Template Library"
+        {
+          "id": 1,
+          "text": "Ten links available"
+        },
+        {
+          "id": 2,
+          "text": "Own analytics platform"
+        },
+        {
+          "id": 3,
+          "text": "Mobile app"
+        },
+        {
+          "id": 4,
+          "text": "Chat Support"
+        },
+        {
+          "id": 5,
+          "text": "1000 users"
+        },
+        {
+          "id": 6,
+          "text": "Template Library"
+        }
       ]
     }
   ],

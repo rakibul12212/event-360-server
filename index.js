@@ -5,9 +5,9 @@ require("dotenv").config();
 const app = express();
 
 const port = process.env.PORT || 5000;
-const uri = process.env.DB_URI;
+const uri = process.env.DB_URL;
 console.log(uri);
-//vercel link : https://event-360-server-green.vercel.app/data
+
 
 // middleware
 app.use(cors());
